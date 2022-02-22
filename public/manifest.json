@@ -5,7 +5,7 @@
   "background_color": "purple",
   "scope": "/",
   "start_url": "/",
-  "display": "browser",
+  "display": "standalone",
   "icons": [
     {
         "src": "/icon-192x192.png",
